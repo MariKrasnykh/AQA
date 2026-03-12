@@ -1,4 +1,4 @@
-public class ArithmeticFunctions {
+public class MathematicalFunctions {
 
     public static int factorial(int number){
         int factorial = 1;
